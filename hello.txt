@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-"Hello  ! ! World" 
-=======
-Hello ! ! World
->>>>>>> origin/DevRamona
+
+"Hello  ! ! World"
+
